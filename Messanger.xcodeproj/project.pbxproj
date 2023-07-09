@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7B738A632A5AE29A00A51588 /* MessangerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B738A622A5AE29A00A51588 /* MessangerApp.swift */; };
-		7B738A652A5AE29A00A51588 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B738A642A5AE29A00A51588 /* ContentView.swift */; };
+		7B738A652A5AE29A00A51588 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B738A642A5AE29A00A51588 /* LoginView.swift */; };
 		7B738A672A5AE29B00A51588 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B738A662A5AE29B00A51588 /* Assets.xcassets */; };
 		7B738A6A2A5AE29B00A51588 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B738A692A5AE29B00A51588 /* Preview Assets.xcassets */; };
 		7B738A742A5AE29B00A51588 /* MessangerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B738A732A5AE29B00A51588 /* MessangerTests.swift */; };
@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		7B738A5F2A5AE29A00A51588 /* Messanger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Messanger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B738A622A5AE29A00A51588 /* MessangerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessangerApp.swift; sourceTree = "<group>"; };
-		7B738A642A5AE29A00A51588 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		7B738A642A5AE29A00A51588 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		7B738A662A5AE29B00A51588 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B738A692A5AE29B00A51588 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7B738A6F2A5AE29B00A51588 /* MessangerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MessangerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -95,7 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				7B738A622A5AE29A00A51588 /* MessangerApp.swift */,
-				7B738A642A5AE29A00A51588 /* ContentView.swift */,
+				7B738A642A5AE29A00A51588 /* LoginView.swift */,
 				7B738A662A5AE29B00A51588 /* Assets.xcassets */,
 				7B738A682A5AE29B00A51588 /* Preview Content */,
 			);
@@ -257,7 +257,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7B738A652A5AE29A00A51588 /* ContentView.swift in Sources */,
+				7B738A652A5AE29A00A51588 /* LoginView.swift in Sources */,
 				7B738A632A5AE29A00A51588 /* MessangerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
